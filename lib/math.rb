@@ -1,23 +1,29 @@
-def addition(num1, num2)
-
+def addition(2, 4)
+puts "hi"
+2+4
 end
 
-def subtraction(num1, num2)
-
+def subtraction(4, 3)
+puts "Hello"
+4-3
 end
 
-def division(num1, num2)
-
+def division(6, 2)
+puts "Hello"
+6/2
 end
 
-def multiplication(num1, num2)
-
+def multiplication(3, 4)
+puts "multi"
+3*4
 end
 
-def modulo(num1, num2)
-
+def modulo(30, 40)
+puts "modu"
+math.sin(30, 40)
 end
 
-def square_root(num)
-
+def square_root(4)
+puts "square"
+math.sqrt 4
 end
